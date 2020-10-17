@@ -7,4 +7,5 @@ echo "Directory exist"
 else
 mkdir -p "C:\Users\Knowledge\Desktop\shell/$ndir"
 echo "Directory created"
+echo "thanks"
 fi
